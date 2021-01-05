@@ -2,9 +2,9 @@ The little courier must complete his tasks at work in an efficient matter.
 
 He is responsible for delivering products to different citzens of Bucharest.
 
-Like the rest of traffic participants he must chose a transport so he 
+Like the rest of traffic participants he must chose a transport so he chooses the subway. 
 
-chooses the subway. Then from each station he must deliver the products at 
+Then from each station he must deliver the products at 
 the client adress.
 
 Considering he is low on time and the traffic keeps changing he requires help,
